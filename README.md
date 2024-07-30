@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaheryar
-- 👀 I’m interested in backhand developer
-- 🌱 I’m currently learning database
+- 👀 I’m interested in MERN Stack developer
+- 🌱 I’m currently learning Express js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
